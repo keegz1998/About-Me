@@ -13,21 +13,19 @@ Want to know more about me? [Check out my portfolio.](https://www.keeganbagnall.
 # 📌 Pinned Repositories
 <br>
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/keegz1998/Hangman">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=keegz1998&repo=Hangman&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/braydoncoyer/pomegradient">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/keegz1998/FoodQuick">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=keegz1998&repo=FoodQuick&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+
 
 
 
