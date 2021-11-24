@@ -1,5 +1,9 @@
-### Hi there 👋
-[![Braydon's GitHub Banner](./assets/Banner.png)](https://www.keeganbagnall.com/)
+
+[![Keegan's GitHub Banner](./assets/Banner.png)](https://www.keeganbagnall.com/)
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/keegan-bagnall/)
+
 <!--
 **keegz1998/Keegz1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
