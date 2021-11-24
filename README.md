@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Braydon's GitHub Banner](./assets/Banner.png)](https://www.keeganbagnall.com/)
 <!--
 **keegz1998/Keegz1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
