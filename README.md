@@ -31,11 +31,6 @@ Want to know more about me? [Check out my portfolio.](https://www.keeganbagnall.
 <a href="https://github.com/keegz1998/Version-Control-Search-Engine-Frontend">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=keegz1998&repo=Version-Control-Search-Engine-Backend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
-
-
-
-
 <br>
 
 
